@@ -1,0 +1,3 @@
+[submodule "DUE"]
+	path = DUE
+	url = git@github.com:ajevnisek/DUE.git
